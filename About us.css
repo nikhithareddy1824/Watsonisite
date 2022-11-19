@@ -3,8 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
-    background-image: url(https://thumbs.dreamstime.com/b/shiny-light-background-your-design-54847620.jpg);
-    background-size: cover;
+    background:#5971AD;	
   }
   
   .content{
